@@ -1,0 +1,2 @@
+# dinosaurs
+Intro Javascript training.
