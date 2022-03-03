@@ -1,0 +1,7 @@
+52.213.94.107 - - [03/Mar/2022:08:14:21 +0100] "GET / HTTP/2.0" 200 1585 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/78.0.3882.0 Safari/537.36"
+52.213.94.107 - - [03/Mar/2022:08:14:21 +0100] "GET /css/style.css HTTP/2.0" 200 1853 "https://thessimages.com/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/78.0.3882.0 Safari/537.36"
+52.213.94.107 - - [03/Mar/2022:08:14:21 +0100] "GET /img/logo.png HTTP/2.0" 200 18187 "https://thessimages.com/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/78.0.3882.0 Safari/537.36"
+92.38.180.47 - - [03/Mar/2022:08:18:29 +0100] "GET / HTTP/1.1" 200 875 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0 Unique/100.7.1676.77"
+92.38.180.47 - - [03/Mar/2022:08:18:29 +0100] "GET /app.css HTTP/1.1" 200 920 "https://thessimages.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0 Unique/100.7.1676.77"
+92.38.180.47 - - [03/Mar/2022:08:18:30 +0100] "GET /images/tracks.png HTTP/1.1" 200 12744 "https://thessimages.com/app.css" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0 Unique/100.7.1676.77"
+92.38.180.47 - - [03/Mar/2022:08:18:32 +0100] "GET /favicon.ico HTTP/1.1" 200 113459 "https://thessimages.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0 Unique/100.7.1676.77"
